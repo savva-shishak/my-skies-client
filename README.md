@@ -5,9 +5,9 @@
 Развернуто [тут](https://my-skies-client-5b66chm9n-sshishak.vercel.app/ "тут")
 
 Стек технологий:
-Nuxtjs
-Typescript
-Element io
+- Nuxtjs
+- Typescript
+- Element io
 
 ### Запуск проекта у себя:
 
