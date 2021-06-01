@@ -1,20 +1,19 @@
-# my-skies-client-vue
+# Мои облака (клиент)
 
-## Build Setup
+### О проекте
+Клиентское приложение к проекту "Мои облака"
+Развернуто [тут](https://my-skies-client-5b66chm9n-sshishak.vercel.app/ "тут")
 
-```bash
-# install dependencies
-$ npm install
+Стек технологий:
+Nuxtjs
+Typescript
+Element io
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+### Запуск проекта у себя:
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+npm run dev
 
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+### Свой вклад (Fork)
+Чтобы внести свой вклад, нужно создать свой форк, нажав на кнопку fork на правом-верхнем углу страницы. Так у вас среди ваших репозиториев появится ещё один с названием my-skies, с которым вы можете работать как с обычным репозиторием, а когда захотите перенести свои изменения в этот проект, достаточно просто нажать на кнопку pull-request на странице вашей копии проекта и указать что выхотите отправить запрос типа:
+savva-shishak/my-skies <- ваш репо,
+дальше нажать на кнопку create pull request и все
