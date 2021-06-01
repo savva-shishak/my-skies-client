@@ -2,7 +2,10 @@
 
 ### О проекте
 Клиентское приложение к проекту "Мои облака"
+
 Развернуто [тут](https://my-skies-client-5b66chm9n-sshishak.vercel.app/ "тут")
+
+Серверное приложение [тут](https://github.com/savva-shishak/my-skies/"тут")
 
 Стек технологий:
 - Nuxtjs
